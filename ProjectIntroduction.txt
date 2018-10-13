@@ -22,3 +22,4 @@ The Learning Section:
 	We aim to not only provide user the privilege of buying games, but we also tend to provide tutorials and lessons on how to
 	create your own 2D or 3D games using the easiest and elaborated ways. The lessons can also be done on demand so the user
 	can always drop off their ideas in the comment section.
+Hey guys this is the first change.
